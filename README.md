@@ -71,3 +71,12 @@ Results for lot3:
 
 
 Looking at the p-value for each lot. The p-value for lot1 is 1. Meaning the mean for lot1 is close to 1500. There is not enough evidence to reject the null hypothesis. This is the same for lot2 as well with a p-value of 0.6072. Well above 0.05. The p-value for lot3 is 0.041. This is below 0.05. Therefore it could be stated that the mean for lot3 is not close to 1500. The alternate hypothesis cannot be rejected.
+
+
+## Study Design: MechaCar vs Competition
+
+In designing a statistical study to test the performance of MechaCar versus competitors, four variables should be examined.  The four variables are cost, mpg in the city, mpg on highway, and maintenance cost.  Two sample t-tests could be run on each category to see if the means are close together based on the p-value.  The null hypothesis would be the means for each category are equal between Mechacar and the competition.  The alternate hypothesis would be the means are not equal when running a two sample t-test for each category.  
+
+The two sample t-test would be best because the data types are continous and it is comparing two sets of data.  The data needed is a sample set of the Mechacar from different lots for cost, mpg in the city, mpg on the highway, and maintenance cost.  The same data would be needed for a competitor over multiple lots to get enough data points.
+
+Further calculations could be used with variance and reseaching the standard set for each category in the car industry.
